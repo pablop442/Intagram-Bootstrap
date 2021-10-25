@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+
+#cardtitle{
+    font-size: 25px;
+}
+
+.p-3{
+    font-size: 15px;
+}
+
+.navbar-brand{
+    font-family: Oleo Script;
+    font-weight: bolder;
+    color: gray;
+    margin-left: 40px;
+    
+}
+
+#greenbtn{
+   float: right ;
+    margin-right: 10px;
+
+}
+.dropdown{
+    float: right;
+}
+
+.nav-pills .nav-link.active {
+    background-color:lightgray !important;
+}
+
+.card-img-top{
+    width: 100%;
+   
+}
+
