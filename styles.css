@@ -11,8 +11,9 @@
 .navbar-brand{
     font-family: Oleo Script;
     font-weight: bolder;
-    color: gray;
+  
     margin-left: 40px;
+    font-size: 30px !important;
     
 }
 
@@ -32,5 +33,10 @@
 .card-img-top{
     width: 100%;
    
+}
+
+img{
+    height: 90%;
+    width: auto;
 }
 
